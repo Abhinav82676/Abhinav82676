@@ -24,7 +24,8 @@ Java • Web Development • Problem Solving
 ![Java](https://img.shields.io/badge/Java-Learning-orange?style=for-the-badge&logo=openjdk)
 ![HTML5](https://img.shields.io/badge/HTML5-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ## 🚀 Featured Projects
 
